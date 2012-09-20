@@ -25,8 +25,8 @@ Download and install into ~/.middleman (you'll have to create this directory if 
 
 ### Example
 
-1. [Download](https://github.com/dannyprose/Middleman-HTML5BP-HAML/zipball/master)/clone to: `~/.middleman/html5bphaml/`
-2. Then create your new Middleman project: `middleman init my_new_project --template=html5bphaml`
+1. [Download](https://github.com/dannyprose/Middleman-HTML5BP-HAML/zipball/master)/clone to: `~/.middleman/html5bphaml-bs/`
+2. Then create your new Middleman project: `middleman init my_new_project --template=html5bphaml-bs`
 
 For more help follow [Middleman's project template instructions](http://middlemanapp.com/getting-started/welcome/).
 
