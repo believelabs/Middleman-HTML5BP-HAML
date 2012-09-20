@@ -1,0 +1,3 @@
+[submodule "source/stylesheets/_vendor/bootstrap-sass"]
+	path = source/stylesheets/_vendor/bootstrap-sass
+	url = git://github.com/thomas-mcdonald/bootstrap-sass.git
