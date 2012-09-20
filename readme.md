@@ -1,4 +1,6 @@
-# Middleman 3.0.x Project Template: HTML5 Boilerplate HAML, Normalize, Susy, Sprockets Includes
+# Middleman HTML5BP Haml with SCSS Bootstrap
+## Forked from Middleman 3.0.x Project Template: HTML5 Boilerplate HAML, Normalize, Susy, Sprockets Includes
+### Includes Thomas McDonald's bootstrap-sass: https://github.com/thomas-mcdonald/bootstrap-sass
 
 HTML5 Boilerplate HAML is the [HTML5 Boilerplate 4.0](http://html5boilerplate.com/) adapted as a HAML [Middleman 3.x](http://middlemanapp.com/) project template with [Susy 1.0](http://susy.oddbird.net/) responsive grids ready to go, content using [Markdown](http://daringfireball.net/projects/markdown/), [SCSS](http://sass-lang.com/) organized with [SMACSS](http://smacss.com/), Coffeescript, Sprockets and more.
 
